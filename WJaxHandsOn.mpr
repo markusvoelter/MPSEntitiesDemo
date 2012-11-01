@@ -6,6 +6,7 @@
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
   <component name="MPSProject">
     <projectModules>
+      <modulePath path="${project}/languages/entities/entities.mpl" folder="" />
       <modulePath path="${project}/solutions/WJaxHandsOn.sandbox/WJaxHandsOn.sandbox.msd" />
     </projectModules>
     <genConfs />
@@ -15,7 +16,7 @@
     <option name="version" value="2.5" />
   </component>
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
 

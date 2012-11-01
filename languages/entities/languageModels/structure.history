@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="v79f" modelUID="r:e1ab1489-de3e-47b6-9561-0aeb88f23057(wjax.entities.structure)" version="-1" />
+    </dependencies>
+    <rename id="v79f.5456904674140684681" type="CONCEPT" from="Property" to="Feature" />
+  </StructureModification>
+</history>
+
