@@ -12,5 +12,17 @@
     </dependencies>
     <rename id="v79f.5456904674140714008" type="REFERENCE" from="opposite" to="oppositeReference" />
   </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="v79f" modelUID="r:e1ab1489-de3e-47b6-9561-0aeb88f23057(wjax.entities.structure)" version="1" />
+    </dependencies>
+    <rename id="v79f.5456904674140684684" type="CHILD" from="properties" to="feature" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="v79f" modelUID="r:e1ab1489-de3e-47b6-9561-0aeb88f23057(wjax.entities.structure)" version="2" />
+    </dependencies>
+    <rename id="v79f.5456904674140684684" type="CHILD" from="feature" to="features" />
+  </StructureModification>
 </history>
 
