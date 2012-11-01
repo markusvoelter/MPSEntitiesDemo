@@ -11,6 +11,7 @@
   <roots>
     <node type="tp3j.IntentionDeclaration" typeId="tp3j.1192794744107" id="5456904674140716523">
       <property name="name" nameId="tpck.1169194664001" value="addOpposite" />
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="entities" />
       <link role="forConcept" roleId="tp3j.2522969319638198290" targetNodeId="v79f.5456904674140706760" resolveInfo="Reference" />
     </node>
   </roots>

@@ -16,28 +16,44 @@
   <import index="tpd4" modelUID="r:00000000-0000-4000-0000-011c895902b4(jetbrains.mps.lang.typesystem.structure)" version="3" implicit="yes" />
   <roots>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="5456904674140684677">
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="entities" />
       <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="v79f.5456904674140684675" resolveInfo="EntityModel" />
     </node>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="5456904674140684685">
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="entities" />
       <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="v79f.5456904674140684673" resolveInfo="Entity" />
     </node>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="5456904674140684715">
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="entities" />
       <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="v79f.5456904674140684704" resolveInfo="Attribute" />
     </node>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="5456904674140706762">
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="entities" />
       <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="v79f.5456904674140706760" resolveInfo="Reference" />
     </node>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="5456904674140706901">
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="entities" />
       <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="v79f.5456904674140706899" resolveInfo="EntityType" />
     </node>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="5456904674140714009">
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="entities" />
       <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="v79f.5456904674140714007" resolveInfo="OppositeSpec" />
     </node>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="5456904674140777206">
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="expr" />
       <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="v79f.5456904674140777204" resolveInfo="DerivedFeature" />
     </node>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="5456904674140786363">
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="expr" />
       <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="v79f.5456904674140786361" resolveInfo="FeatureRefExpr" />
+    </node>
+    <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="5456904674140819162">
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="javaIntegration" />
+      <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="v79f.5456904674140819160" resolveInfo="EntityCreator" />
+    </node>
+    <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="5456904674140831664">
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="javaIntegration" />
+      <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="v79f.5456904674140825806" resolveInfo="FeatureRefOperation" />
     </node>
   </roots>
   <root id="5456904674140684677">
@@ -292,6 +308,28 @@
       <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="v79f.5456904674140786362" />
       <node role="editorComponent" roleId="tpc2.1088186146602" type="tpc2.InlineEditorComponent" typeId="tpc2.1088185857835" id="5456904674140786366">
         <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_Property" typeId="tpc2.1073389658414" id="5456904674140786368">
+          <property name="readOnly" nameId="tpc2.1140017977771" value="true" />
+          <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="tpck.1169194664001" resolveInfo="name" />
+        </node>
+      </node>
+    </node>
+  </root>
+  <root id="5456904674140819162">
+    <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_RefCell" typeId="tpc2.1088013125922" id="5456904674140819164">
+      <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="v79f.5456904674140819161" />
+      <node role="editorComponent" roleId="tpc2.1088186146602" type="tpc2.InlineEditorComponent" typeId="tpc2.1088185857835" id="5456904674140819165">
+        <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_Property" typeId="tpc2.1073389658414" id="5456904674140819167">
+          <property name="readOnly" nameId="tpc2.1140017977771" value="true" />
+          <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="tpck.1169194664001" resolveInfo="name" />
+        </node>
+      </node>
+    </node>
+  </root>
+  <root id="5456904674140831664">
+    <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_RefCell" typeId="tpc2.1088013125922" id="5456904674140831666">
+      <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="v79f.5456904674140825807" />
+      <node role="editorComponent" roleId="tpc2.1088186146602" type="tpc2.InlineEditorComponent" typeId="tpc2.1088185857835" id="5456904674140831667">
+        <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_Property" typeId="tpc2.1073389658414" id="5456904674140831669">
           <property name="readOnly" nameId="tpc2.1140017977771" value="true" />
           <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="tpck.1169194664001" resolveInfo="name" />
         </node>

@@ -29,8 +29,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb4bfb44-28df-4ea4-8bbe-95be24a2819c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/languageModels/structure.history" afterPath="$PROJECT_DIR$/languages/entities/languageModels/structure.history" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/entities.mpl" afterPath="$PROJECT_DIR$/languages/entities/entities.mpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/generator/template/wjax/entities/generator/template/main@generator.mps" afterPath="$PROJECT_DIR$/languages/entities/generator/template/wjax/entities/generator/template/main@generator.mps" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/languageModels/behavior.mps" afterPath="$PROJECT_DIR$/languages/entities/languageModels/behavior.mps" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/languageModels/constraints.mps" afterPath="$PROJECT_DIR$/languages/entities/languageModels/constraints.mps" />
@@ -69,17 +67,7 @@
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
               <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="0" />
-                    <property name="caretX" value="250" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node model="r:85b33655-099e-4d68-af4b-c1589e03154e(wjax.entities.typesystem)" id="5456904674140810401" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
+                <selectionStack />
                 <folded />
               </memento>
               <inspectorMemento viewPositionX="0" viewPositionY="0">
@@ -129,15 +117,15 @@
         <entry file="mps://wjax.entities.generator.template.main@generator/main">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento viewPositionX="0" viewPositionY="438">
+              <memento viewPositionX="0" viewPositionY="2037">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
                     <property name="caretXRelative" value="18" />
-                    <property name="caretX" value="406" />
+                    <property name="caretX" value="322" />
                     <property name="sideSelectDirection" value="NONE" />
                     <cellInfo cellId="Constant_9o3sb9_a0_0" cellNumber="0" isInList="false">
-                      <node model="r:e0369bad-fbab-4b2c-9bc1-642ea7cd32aa(wjax.entities.generator.template.main@generator)" id="5456904674140804106" />
+                      <node model="r:e0369bad-fbab-4b2c-9bc1-642ea7cd32aa(wjax.entities.generator.template.main@generator)" id="5456904674140852929" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -151,38 +139,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EntityModel" pinned="false" current="false" current-in-tab="false">
-        <entry file="mps://WJaxHandsOn.sandbox.entities/EntityModel">
+      <file leaf-file-name="W.sandbox.entities/text" pinned="false" current="false" current-in-tab="false">
+        <entry file="previewGenerated text for WJaxHandsOn.sandbox.entities">
+          <provider selected="true" editor-type-id="GeneratedTextPreview">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestClass" pinned="false" current="true" current-in-tab="true">
+        <entry file="mps://WJaxHandsOn.sandbox.entities/TestClass">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
               <memento viewPositionX="0" viewPositionY="0">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="0" />
-                    <property name="caretX" value="91" />
+                    <property name="caretXRelative" value="27" />
+                    <property name="caretX" value="219" />
                     <property name="sideSelectDirection" value="NONE" />
                     <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node model="r:a6e922a1-7493-4e65-a324-c5883e4925cc(WJaxHandsOn.sandbox.entities)" id="5456904674140781441" />
-                    </cellInfo>
-                  </stackElement>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="selectionEnd" value="4" />
-                    <property name="hasNonTrivialSelection" value="true" />
-                    <property name="caretXRelative" value="0" />
-                    <property name="selectionStart" value="0" />
-                    <property name="caretX" value="91" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node model="r:a6e922a1-7493-4e65-a324-c5883e4925cc(WJaxHandsOn.sandbox.entities)" id="5456904674140781441" />
-                    </cellInfo>
-                  </stackElement>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                    <property name="caretXRelative" value="-33" />
-                    <property name="caretX" value="0" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Collection_85kgfd_a" cellNumber="0" isInList="false">
-                      <node model="r:a6e922a1-7493-4e65-a324-c5883e4925cc(WJaxHandsOn.sandbox.entities)" id="5456904674140781441" />
+                      <node model="r:a6e922a1-7493-4e65-a324-c5883e4925cc(WJaxHandsOn.sandbox.entities)" id="5456904674140861181" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -196,10 +172,54 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="W.sandbox.entities/text" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="W.sandbox.entities/text" pinned="false" current="false" current-in-tab="false">
         <entry file="previewGenerated text for WJaxHandsOn.sandbox.entities">
           <provider selected="true" editor-type-id="GeneratedTextPreview">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FeatureRefOperation" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://wjax.entities.structure/FeatureRefOperation">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+              <node nodeId="5456904674140847756" modelId="r:6ffb4c3e-f0e8-400c-b2dc-53d8c838bcac(wjax.entities.behavior)" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EntityCreator" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://wjax.entities.structure/EntityCreator">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretXRelative" value="0" />
+                    <property name="caretX" value="82" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="TransactionalProperty_ueqr71_b0a" cellNumber="0" isInList="false">
+                      <node model="r:e1ab1489-de3e-47b6-9561-0aeb88f23057(wjax.entities.structure)" id="5456904674140819160" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <folded />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+              <node nodeId="5456904674140819160" modelId="r:e1ab1489-de3e-47b6-9561-0aeb88f23057(wjax.entities.structure)" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -374,6 +394,62 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="expr">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Empty">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Project">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="wjax.entities">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="wjax.entities#5456904674140750115">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="wjax.entities#5456904674140750115">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="wjax.entities.generator.template.main">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="entities">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Empty">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Project">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="wjax.entities">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="wjax.entities.structure">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="javaIntegration">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT USER_OBJECT="Empty">
@@ -528,7 +604,7 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1058" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -545,7 +621,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24986821" sideWeight="0.6702015" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24986821" sideWeight="0.6702015" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -627,104 +703,6 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="mps://wjax.entities.structure/IUniqueNamesContainer">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="250" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node model="r:85b33655-099e-4d68-af4b-c1589e03154e(wjax.entities.typesystem)" id="5456904674140698944" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-          <node nodeId="5456904674140698942" modelId="r:85b33655-099e-4d68-af4b-c1589e03154e(wjax.entities.typesystem)" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://wjax.entities.intentions/addOpposite">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="63" />
-                <property name="caretX" value="240" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="conceptProperty_alias" cellNumber="0" isInList="false">
-                  <node model="r:ece09ed8-8934-4acf-82ad-6f4c380da7f7(wjax.entities.intentions)" id="5456904674140716648" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://wjax.entities.structure/EntityModel">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="163" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node model="r:6ffb4c3e-f0e8-400c-b2dc-53d8c838bcac(wjax.entities.behavior)" id="5456904674140699883" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-          <node nodeId="5456904674140699883" modelId="r:6ffb4c3e-f0e8-400c-b2dc-53d8c838bcac(wjax.entities.behavior)" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://wjax.entities.typesystem/typeof_PrimitiveType">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="36" />
-                <property name="caretX" value="454" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_227urv_a" cellNumber="0" isInList="false">
-                  <node model="r:85b33655-099e-4d68-af4b-c1589e03154e(wjax.entities.typesystem)" id="5456904674140772145" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://wjax.entities.structure/EntityType">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
@@ -884,45 +862,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://wjax.entities.generator.template.main@generator/main">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="438">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="18" />
-                <property name="caretX" value="406" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_9o3sb9_a0_0" cellNumber="0" isInList="false">
-                  <node model="r:e0369bad-fbab-4b2c-9bc1-642ea7cd32aa(wjax.entities.generator.template.main@generator)" id="5456904674140804106" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://wjax.entities.structure/DerivedFeature">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
           <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="250" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node model="r:85b33655-099e-4d68-af4b-c1589e03154e(wjax.entities.typesystem)" id="5456904674140810401" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
+            <selectionStack />
             <folded />
           </memento>
           <inspectorMemento viewPositionX="0" viewPositionY="0">
@@ -933,6 +877,95 @@
         </state>
       </provider>
     </entry>
+    <entry file="mps://wjax.entities.structure/EntityCreator">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="82" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="TransactionalProperty_ueqr71_b0a" cellNumber="0" isInList="false">
+                  <node model="r:e1ab1489-de3e-47b6-9561-0aeb88f23057(wjax.entities.structure)" id="5456904674140819160" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="5456904674140819160" modelId="r:e1ab1489-de3e-47b6-9561-0aeb88f23057(wjax.entities.structure)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://jetbrains.mps.baseLanguage.structure/DotExpression">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretXRelative" value="-15" />
+                <property name="caretX" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_ueqr71_a_0" cellNumber="0" isInList="false">
+                  <node model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" id="1197027756228" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </inspectorMemento>
+          <node nodeId="1213877410687" modelId="r:00000000-0000-4000-0000-011c895902c0(jetbrains.mps.baseLanguage.behavior)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://wjax.entities.structure/FeatureRefOperation">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="5456904674140847756" modelId="r:6ffb4c3e-f0e8-400c-b2dc-53d8c838bcac(wjax.entities.behavior)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://jetbrains.mps.baseLanguage.structure/AssignmentExpression">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="250" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:00000000-0000-4000-0000-011c895902c5(jetbrains.mps.baseLanguage.typesystem)" id="1175517314758" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="1175517296787" modelId="r:00000000-0000-4000-0000-011c895902c5(jetbrains.mps.baseLanguage.typesystem)" />
+        </state>
+      </provider>
+    </entry>
     <entry file="mps://WJaxHandsOn.sandbox.entities/EntityModel">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -940,30 +973,59 @@
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="0" />
-                <property name="caretX" value="91" />
+                <property name="caretXRelative" value="27" />
+                <property name="caretX" value="189" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node model="r:a6e922a1-7493-4e65-a324-c5883e4925cc(WJaxHandsOn.sandbox.entities)" id="5456904674140781441" />
+                <cellInfo cellId="conceptProperty_alias" cellNumber="0" isInList="false">
+                  <node model="r:a6e922a1-7493-4e65-a324-c5883e4925cc(WJaxHandsOn.sandbox.entities)" id="5456904674140852398" />
                 </cellInfo>
               </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://wjax.entities.generator.template.main@generator/main">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="2037">
+            <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="selectionEnd" value="4" />
-                <property name="hasNonTrivialSelection" value="true" />
-                <property name="caretXRelative" value="0" />
-                <property name="selectionStart" value="0" />
-                <property name="caretX" value="91" />
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="18" />
+                <property name="caretX" value="322" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node model="r:a6e922a1-7493-4e65-a324-c5883e4925cc(WJaxHandsOn.sandbox.entities)" id="5456904674140781441" />
+                <cellInfo cellId="Constant_9o3sb9_a0_0" cellNumber="0" isInList="false">
+                  <node model="r:e0369bad-fbab-4b2c-9bc1-642ea7cd32aa(wjax.entities.generator.template.main@generator)" id="5456904674140852929" />
                 </cellInfo>
               </stackElement>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                <property name="caretXRelative" value="-33" />
-                <property name="caretX" value="0" />
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://WJaxHandsOn.sandbox.entities/TestClass">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="27" />
+                <property name="caretX" value="219" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Collection_85kgfd_a" cellNumber="0" isInList="false">
-                  <node model="r:a6e922a1-7493-4e65-a324-c5883e4925cc(WJaxHandsOn.sandbox.entities)" id="5456904674140781441" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:a6e922a1-7493-4e65-a324-c5883e4925cc(WJaxHandsOn.sandbox.entities)" id="5456904674140861181" />
                 </cellInfo>
               </stackElement>
             </selectionStack>

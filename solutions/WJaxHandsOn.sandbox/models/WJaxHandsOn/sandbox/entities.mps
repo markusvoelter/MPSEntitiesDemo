@@ -8,6 +8,9 @@
   <import index="tpee" modelUID="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" version="4" implicit="yes" />
   <roots>
     <node type="v79f.EntityModel" typeId="v79f.5456904674140684675" id="5456904674140696368" />
+    <node type="tpee.ClassConcept" typeId="tpee.1068390468198" id="5456904674140811175">
+      <property name="name" nameId="tpck.1169194664001" value="TestClass" />
+    </node>
   </roots>
   <root id="5456904674140696368">
     <node role="entities" roleId="v79f.5456904674140684676" type="v79f.Entity" typeId="v79f.5456904674140684673" id="5456904674140696369">
@@ -51,6 +54,88 @@
       <node role="features" roleId="v79f.5456904674140684684" type="v79f.Reference" typeId="v79f.5456904674140706760" id="5456904674140718801">
         <property name="name" nameId="tpck.1169194664001" value="brother" />
         <link role="entity" roleId="v79f.5456904674140706761" targetNodeId="5456904674140710614" resolveInfo="Person" />
+      </node>
+      <node role="features" roleId="v79f.5456904674140684684" type="v79f.Attribute" typeId="v79f.5456904674140684704" id="5456904674140852396">
+        <property name="name" nameId="tpck.1169194664001" value="age" />
+        <node role="type" roleId="v79f.5456904674140684705" type="tpee.IntegerType" typeId="tpee.1070534370425" id="5456904674140852398" />
+      </node>
+    </node>
+  </root>
+  <root id="5456904674140811175">
+    <node role="visibility" roleId="tpee.1178549979242" type="tpee.PublicVisibility" typeId="tpee.1146644602865" id="5456904674140811176" />
+    <node role="constructor" roleId="tpee.1068390468201" type="tpee.ConstructorDeclaration" typeId="tpee.1068580123140" id="5456904674140811177">
+      <node role="returnType" roleId="tpee.1068580123133" type="tpee.VoidType" typeId="tpee.1068581517677" id="5456904674140811178" />
+      <node role="visibility" roleId="tpee.1178549979242" type="tpee.PublicVisibility" typeId="tpee.1146644602865" id="5456904674140811179" />
+      <node role="body" roleId="tpee.1068580123135" type="tpee.StatementList" typeId="tpee.1068580123136" id="5456904674140811180">
+        <node role="statement" roleId="tpee.1068581517665" type="tpee.LocalVariableDeclarationStatement" typeId="tpee.1068581242864" id="5456904674140811181">
+          <node role="localVariableDeclaration" roleId="tpee.1068581242865" type="tpee.LocalVariableDeclaration" typeId="tpee.1068581242863" id="5456904674140811182">
+            <property name="name" nameId="tpck.1169194664001" value="c" />
+            <node role="type" roleId="tpee.5680397130376446158" type="v79f.EntityType" typeId="v79f.5456904674140706899" id="5456904674140811183">
+              <link role="entity" roleId="v79f.5456904674140706900" targetNodeId="5456904674140696369" resolveInfo="Car" />
+            </node>
+            <node role="initializer" roleId="tpee.1068431790190" type="tpee.GenericNewExpression" typeId="tpee.1145552977093" id="5456904674140811185">
+              <node role="creator" roleId="tpee.1145553007750" type="v79f.EntityCreator" typeId="v79f.5456904674140819160" id="5456904674140825774">
+                <link role="entity" roleId="v79f.5456904674140819161" targetNodeId="5456904674140696369" resolveInfo="Car" />
+              </node>
+            </node>
+          </node>
+        </node>
+        <node role="statement" roleId="tpee.1068581517665" type="tpee.Statement" typeId="tpee.1068580123157" id="5456904674140825775" />
+        <node role="statement" roleId="tpee.1068581517665" type="tpee.ExpressionStatement" typeId="tpee.1068580123155" id="5456904674140825778">
+          <node role="expression" roleId="tpee.1068580123156" type="tpee.AssignmentExpression" typeId="tpee.1068498886294" id="5456904674140833140">
+            <node role="rValue" roleId="tpee.1068498886297" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="5456904674140833143">
+              <property name="value" nameId="tpee.1068580320021" value="10" />
+            </node>
+            <node role="lValue" roleId="tpee.1068498886295" type="tpee.DotExpression" typeId="tpee.1197027756228" id="5456904674140825800">
+              <node role="operand" roleId="tpee.1197027771414" type="tpee.LocalVariableReference" typeId="tpee.1068581242866" id="5456904674140825779">
+                <link role="variableDeclaration" roleId="tpee.1068581517664" targetNodeId="5456904674140811182" resolveInfo="c" />
+              </node>
+              <node role="operation" roleId="tpee.1197027833540" type="v79f.FeatureRefOperation" typeId="v79f.5456904674140825806" id="5456904674140831663">
+                <link role="feature" roleId="v79f.5456904674140825807" targetNodeId="5456904674140696370" resolveInfo="age" />
+              </node>
+            </node>
+          </node>
+        </node>
+        <node role="statement" roleId="tpee.1068581517665" type="tpee.ExpressionStatement" typeId="tpee.1068580123155" id="5456904674140852312">
+          <node role="expression" roleId="tpee.1068580123156" type="tpee.AssignmentExpression" typeId="tpee.1068498886294" id="5456904674140852390">
+            <node role="rValue" roleId="tpee.1068498886297" type="tpee.IntegerConstant" typeId="tpee.1068580320020" id="5456904674140852393">
+              <property name="value" nameId="tpee.1068580320021" value="20" />
+            </node>
+            <node role="lValue" roleId="tpee.1068498886295" type="tpee.DotExpression" typeId="tpee.1197027756228" id="5456904674140852362">
+              <node role="operand" roleId="tpee.1197027771414" type="tpee.DotExpression" typeId="tpee.1197027756228" id="5456904674140852334">
+                <node role="operand" roleId="tpee.1197027771414" type="tpee.LocalVariableReference" typeId="tpee.1068581242866" id="5456904674140852313">
+                  <link role="variableDeclaration" roleId="tpee.1068581517664" targetNodeId="5456904674140811182" resolveInfo="c" />
+                </node>
+                <node role="operation" roleId="tpee.1197027833540" type="v79f.FeatureRefOperation" typeId="v79f.5456904674140825806" id="5456904674140852340">
+                  <link role="feature" roleId="v79f.5456904674140825807" targetNodeId="5456904674140710616" resolveInfo="p" />
+                </node>
+              </node>
+              <node role="operation" roleId="tpee.1197027833540" type="v79f.FeatureRefOperation" typeId="v79f.5456904674140825806" id="5456904674140852400">
+                <link role="feature" roleId="v79f.5456904674140825807" targetNodeId="5456904674140852396" resolveInfo="age" />
+              </node>
+            </node>
+          </node>
+        </node>
+        <node role="statement" roleId="tpee.1068581517665" type="tpee.LocalVariableDeclarationStatement" typeId="tpee.1068581242864" id="5456904674140860838">
+          <node role="localVariableDeclaration" roleId="tpee.1068581242865" type="tpee.LocalVariableDeclaration" typeId="tpee.1068581242863" id="5456904674140860839">
+            <property name="name" nameId="tpck.1169194664001" value="anAge" />
+            <node role="type" roleId="tpee.5680397130376446158" type="tpee.IntegerType" typeId="tpee.1070534370425" id="5456904674140860840" />
+            <node role="initializer" roleId="tpee.1068431790190" type="tpee.DotExpression" typeId="tpee.1197027756228" id="5456904674140861175">
+              <node role="operand" roleId="tpee.1197027771414" type="tpee.DotExpression" typeId="tpee.1197027756228" id="5456904674140860863">
+                <node role="operand" roleId="tpee.1197027771414" type="tpee.LocalVariableReference" typeId="tpee.1068581242866" id="5456904674140860842">
+                  <link role="variableDeclaration" roleId="tpee.1068581517664" targetNodeId="5456904674140811182" resolveInfo="c" />
+                </node>
+                <node role="operation" roleId="tpee.1197027833540" type="v79f.FeatureRefOperation" typeId="v79f.5456904674140825806" id="5456904674140861153">
+                  <link role="feature" roleId="v79f.5456904674140825807" targetNodeId="5456904674140710616" resolveInfo="p" />
+                </node>
+              </node>
+              <node role="operation" roleId="tpee.1197027833540" type="v79f.FeatureRefOperation" typeId="v79f.5456904674140825806" id="5456904674140861181">
+                <link role="feature" roleId="v79f.5456904674140825807" targetNodeId="5456904674140852396" resolveInfo="age" />
+              </node>
+            </node>
+          </node>
+        </node>
+        <node role="statement" roleId="tpee.1068581517665" type="tpee.Statement" typeId="tpee.1068580123157" id="5456904674140825777" />
       </node>
     </node>
   </root>
