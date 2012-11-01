@@ -18,12 +18,6 @@
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="5456904674140684715">
       <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="v79f.5456904674140684704" resolveInfo="Attribute" />
     </node>
-    <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="5456904674140697121">
-      <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="v79f.5456904674140692412" resolveInfo="StringType" />
-    </node>
-    <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="5456904674140697124">
-      <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="v79f.5456904674140684708" resolveInfo="IntType" />
-    </node>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="5456904674140706762">
       <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="v79f.5456904674140706760" resolveInfo="Reference" />
     </node>
@@ -86,16 +80,6 @@
       <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_RefNode" typeId="tpc2.1073389882823" id="5456904674140684725">
         <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="v79f.5456904674140684705" />
       </node>
-    </node>
-  </root>
-  <root id="5456904674140697121">
-    <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_Constant" typeId="tpc2.1073389577006" id="5456904674140697123">
-      <property name="text" nameId="tpc2.1073389577007" value="string" />
-    </node>
-  </root>
-  <root id="5456904674140697124">
-    <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_Constant" typeId="tpc2.1073389577006" id="5456904674140697126">
-      <property name="text" nameId="tpc2.1073389577007" value="int" />
     </node>
   </root>
   <root id="5456904674140706762">

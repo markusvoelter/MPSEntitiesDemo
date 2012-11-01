@@ -5,6 +5,7 @@
   <devkit namespace="fbc25dd2-5da4-483a-8b19-70928e1b62d7(jetbrains.mps.devkit.general-purpose)" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <import index="v79f" modelUID="r:e1ab1489-de3e-47b6-9561-0aeb88f23057(wjax.entities.structure)" version="1" implicit="yes" />
+  <import index="tpee" modelUID="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" version="4" implicit="yes" />
   <roots>
     <node type="v79f.EntityModel" typeId="v79f.5456904674140684675" id="5456904674140696368" />
   </roots>
@@ -13,11 +14,11 @@
       <property name="name" nameId="tpck.1169194664001" value="Car" />
       <node role="properties" roleId="v79f.5456904674140684684" type="v79f.Attribute" typeId="v79f.5456904674140684704" id="5456904674140696370">
         <property name="name" nameId="tpck.1169194664001" value="age" />
-        <node role="type" roleId="v79f.5456904674140684705" type="v79f.IntType" typeId="v79f.5456904674140684708" id="5456904674140696884" />
+        <node role="type" roleId="v79f.5456904674140684705" type="tpee.IntegerType" typeId="tpee.1070534370425" id="5456904674140771868" />
       </node>
       <node role="properties" roleId="v79f.5456904674140684684" type="v79f.Attribute" typeId="v79f.5456904674140684704" id="5456904674140698777">
         <property name="name" nameId="tpck.1169194664001" value="x" />
-        <node role="type" roleId="v79f.5456904674140684705" type="v79f.StringType" typeId="v79f.5456904674140692412" id="5456904674140698779" />
+        <node role="type" roleId="v79f.5456904674140684705" type="tpee.FloatType" typeId="tpee.1070534436861" id="5456904674140771869" />
       </node>
       <node role="properties" roleId="v79f.5456904674140684684" type="v79f.Reference" typeId="v79f.5456904674140706760" id="5456904674140710616">
         <property name="name" nameId="tpck.1169194664001" value="p" />

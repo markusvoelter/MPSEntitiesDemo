@@ -25,18 +25,6 @@
     </node>
   </roots>
   <root id="5456904674140750144">
-    <node role="reductionMappingRule" roleId="tpf8.1167328349397" type="tpf8.Reduction_MappingRule" typeId="tpf8.1167327847730" id="5456904674140750324">
-      <link role="applicableConcept" roleId="tpf8.1167169349424" targetNodeId="v79f.5456904674140684708" resolveInfo="IntType" />
-      <node role="ruleConsequence" roleId="tpf8.1169672767469" type="tpf8.InlineTemplate_RuleConsequence" typeId="tpf8.1177093525992" id="5456904674140750326">
-        <node role="templateNode" roleId="tpf8.1177093586806" type="tpee.IntegerType" typeId="tpee.1070534370425" id="5456904674140750328" />
-      </node>
-    </node>
-    <node role="reductionMappingRule" roleId="tpf8.1167328349397" type="tpf8.Reduction_MappingRule" typeId="tpf8.1167327847730" id="5456904674140750329">
-      <link role="applicableConcept" roleId="tpf8.1167169349424" targetNodeId="v79f.5456904674140692412" resolveInfo="StringType" />
-      <node role="ruleConsequence" roleId="tpf8.1169672767469" type="tpf8.InlineTemplate_RuleConsequence" typeId="tpf8.1177093525992" id="5456904674140750330">
-        <node role="templateNode" roleId="tpf8.1177093586806" type="tpee.StringType" typeId="tpee.1225271177708" id="5456904674140750332" />
-      </node>
-    </node>
     <node role="reductionMappingRule" roleId="tpf8.1167328349397" type="tpf8.Reduction_MappingRule" typeId="tpf8.1167327847730" id="5456904674140750333">
       <link role="applicableConcept" roleId="tpf8.1167169349424" targetNodeId="v79f.5456904674140706899" resolveInfo="EntityType" />
       <node role="ruleConsequence" roleId="tpf8.1169672767469" type="tpf8.InlineTemplateWithContext_RuleConsequence" typeId="tpf8.8900764248744213868" id="5456904674140750339">
