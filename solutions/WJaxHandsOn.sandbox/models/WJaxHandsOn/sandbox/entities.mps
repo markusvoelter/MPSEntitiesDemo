@@ -19,6 +19,13 @@
         <property name="name" nameId="tpck.1169194664001" value="x" />
         <node role="type" roleId="v79f.5456904674140684705" type="v79f.StringType" typeId="v79f.5456904674140692412" id="5456904674140698779" />
       </node>
+      <node role="properties" roleId="v79f.5456904674140684684" type="v79f.Reference" typeId="v79f.5456904674140706760" id="5456904674140710616">
+        <property name="name" nameId="tpck.1169194664001" value="p" />
+        <link role="entity" roleId="v79f.5456904674140706761" targetNodeId="5456904674140710614" resolveInfo="Person" />
+      </node>
+    </node>
+    <node role="entities" roleId="v79f.5456904674140684676" type="v79f.Entity" typeId="v79f.5456904674140684673" id="5456904674140710614">
+      <property name="name" nameId="tpck.1169194664001" value="Person" />
     </node>
   </root>
 </model>
