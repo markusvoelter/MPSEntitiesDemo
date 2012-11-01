@@ -6,5 +6,11 @@
     </dependencies>
     <rename id="v79f.5456904674140684681" type="CONCEPT" from="Property" to="Feature" />
   </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="v79f" modelUID="r:e1ab1489-de3e-47b6-9561-0aeb88f23057(wjax.entities.structure)" version="0" />
+    </dependencies>
+    <rename id="v79f.5456904674140714008" type="REFERENCE" from="opposite" to="oppositeReference" />
+  </StructureModification>
 </history>
 
