@@ -15,10 +15,6 @@
         <property name="name" nameId="tpck.1169194664001" value="age" />
         <node role="type" roleId="v79f.5456904674140684705" type="v79f.IntType" typeId="v79f.5456904674140684708" id="5456904674140696884" />
       </node>
-      <node role="properties" roleId="v79f.5456904674140684684" type="v79f.Attribute" typeId="v79f.5456904674140684704" id="5456904674140697119">
-        <property name="name" nameId="tpck.1169194664001" value="x" />
-        <node role="type" roleId="v79f.5456904674140684705" type="v79f.IntType" typeId="v79f.5456904674140684708" id="5456904674140698775" />
-      </node>
       <node role="properties" roleId="v79f.5456904674140684684" type="v79f.Attribute" typeId="v79f.5456904674140684704" id="5456904674140698777">
         <property name="name" nameId="tpck.1169194664001" value="x" />
         <node role="type" roleId="v79f.5456904674140684705" type="v79f.StringType" typeId="v79f.5456904674140692412" id="5456904674140698779" />
