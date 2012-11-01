@@ -29,55 +29,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb4bfb44-28df-4ea4-8bbe-95be24a2819c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/classes_gen/wjax/entities/behavior/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/classes_gen/wjax/entities/constraints/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/classes_gen/wjax/entities/editor/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/classes_gen/wjax/entities/structure/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/classes_gen/wjax/entities/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/classes_gen/wjax/entities/typesystem/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/languageModels/structure.history" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen.caches/wjax/entities/behavior/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen.caches/wjax/entities/behavior/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen.caches/wjax/entities/constraints/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen.caches/wjax/entities/constraints/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen.caches/wjax/entities/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen.caches/wjax/entities/editor/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen.caches/wjax/entities/editor/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen.caches/wjax/entities/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen.caches/wjax/entities/structure/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen.caches/wjax/entities/structure/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen.caches/wjax/entities/typesystem/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen.caches/wjax/entities/typesystem/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen/wjax/entities/behavior/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen/wjax/entities/constraints/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen/wjax/entities/editor/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen/wjax/entities/structure/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen/wjax/entities/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen/wjax/entities/typesystem/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/entities.mpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/languageModels/behavior.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/languageModels/constraints.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/languageModels/editor.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/languageModels/structure.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/languageModels/typesystem.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen/wjax/entities/Language.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen/wjax/entities/behavior/Attribute_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen/wjax/entities/behavior/BehaviorAspectDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen/wjax/entities/behavior/EntityModel_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen/wjax/entities/behavior/Entity_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen/wjax/entities/behavior/Feature_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen/wjax/entities/behavior/IntType_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen/wjax/entities/behavior/StringType_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen/wjax/entities/behavior/Type_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen/wjax/entities/editor/Attribute_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen/wjax/entities/editor/EntityModel_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen/wjax/entities/editor/Entity_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen/wjax/entities/structure/Entities_Language.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/entities/source_gen/wjax/entities/structure/StructureAspectDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/WJaxHandsOn.sandbox/models/WJaxHandsOn/sandbox/entities.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WJaxHandsOn.iws" afterPath="$PROJECT_DIR$/WJaxHandsOn.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WJaxHandsOn.mpr" afterPath="$PROJECT_DIR$/WJaxHandsOn.mpr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/WJaxHandsOn.sandbox/WJaxHandsOn.sandbox.msd" afterPath="$PROJECT_DIR$/solutions/WJaxHandsOn.sandbox/WJaxHandsOn.sandbox.msd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/languageModels/behavior.mps" afterPath="$PROJECT_DIR$/languages/entities/languageModels/behavior.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/entities/languageModels/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/entities/languageModels/typesystem.mps" afterPath="$PROJECT_DIR$/languages/entities/languageModels/typesystem.mps" />
     </list>
     <ignored path="WJaxHandsOn.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -115,7 +69,24 @@
                 <selectionStack />
                 <folded />
               </inspectorMemento>
-              <node nodeId="5456904674140684685" modelId="r:61d060ca-1ee4-4c24-a6c0-676b57f5b979(wjax.entities.editor)" />
+              <node nodeId="5456904674140699922" modelId="r:6ffb4c3e-f0e8-400c-b2dc-53d8c838bcac(wjax.entities.behavior)" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IUniqueNamesContainer" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://wjax.entities.structure/IUniqueNamesContainer">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+              <node nodeId="5456904674140698942" modelId="r:85b33655-099e-4d68-af4b-c1589e03154e(wjax.entities.typesystem)" />
             </state>
           </provider>
         </entry>
@@ -189,8 +160,8 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="54" />
-                    <property name="caretX" value="206" />
+                    <property name="caretXRelative" value="18" />
+                    <property name="caretX" value="170" />
                     <property name="sideSelectDirection" value="NONE" />
                     <cellInfo cellId="Constant_vcvxr4_a" cellNumber="0" isInList="false">
                       <node model="r:a6e922a1-7493-4e65-a324-c5883e4925cc(WJaxHandsOn.sandbox.entities)" id="5456904674140698779" />
@@ -212,24 +183,14 @@
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
               <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="36" />
-                    <property name="caretX" value="262" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_rootable" cellNumber="0" isInList="false">
-                      <node model="r:e1ab1489-de3e-47b6-9561-0aeb88f23057(wjax.entities.structure)" id="5456904674140684675" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
+                <selectionStack />
                 <folded />
               </memento>
               <inspectorMemento viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <folded />
               </inspectorMemento>
-              <node nodeId="5456904674140684675" modelId="r:e1ab1489-de3e-47b6-9561-0aeb88f23057(wjax.entities.structure)" />
+              <node nodeId="5456904674140699883" modelId="r:6ffb4c3e-f0e8-400c-b2dc-53d8c838bcac(wjax.entities.behavior)" />
             </state>
           </provider>
         </entry>
@@ -386,6 +347,24 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="wjax.entities">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Empty">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Project">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="wjax.entities">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="wjax.entities.typesystem">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -660,31 +639,6 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="mps://wjax.entities.structure/EntityModel">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="36" />
-                <property name="caretX" value="262" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_rootable" cellNumber="0" isInList="false">
-                  <node model="r:e1ab1489-de3e-47b6-9561-0aeb88f23057(wjax.entities.structure)" id="5456904674140684675" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-          <node nodeId="5456904674140684675" modelId="r:e1ab1489-de3e-47b6-9561-0aeb88f23057(wjax.entities.structure)" />
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://wjax.entities.structure/Attribute">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
@@ -722,21 +676,6 @@
             <folded />
           </inspectorMemento>
           <node nodeId="5456904674140684681" modelId="r:e1ab1489-de3e-47b6-9561-0aeb88f23057(wjax.entities.structure)" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://wjax.entities.structure/Entity">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-          <node nodeId="5456904674140684685" modelId="r:61d060ca-1ee4-4c24-a6c0-676b57f5b979(wjax.entities.editor)" />
         </state>
       </provider>
     </entry>
@@ -812,8 +751,8 @@
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="54" />
-                <property name="caretX" value="206" />
+                <property name="caretXRelative" value="18" />
+                <property name="caretX" value="170" />
                 <property name="sideSelectDirection" value="NONE" />
                 <cellInfo cellId="Constant_vcvxr4_a" cellNumber="0" isInList="false">
                   <node model="r:a6e922a1-7493-4e65-a324-c5883e4925cc(WJaxHandsOn.sandbox.entities)" id="5456904674140698779" />
@@ -826,6 +765,51 @@
             <selectionStack />
             <folded />
           </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://wjax.entities.structure/IUniqueNamesContainer">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="5456904674140698942" modelId="r:85b33655-099e-4d68-af4b-c1589e03154e(wjax.entities.typesystem)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://wjax.entities.structure/EntityModel">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="5456904674140699883" modelId="r:6ffb4c3e-f0e8-400c-b2dc-53d8c838bcac(wjax.entities.behavior)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://wjax.entities.structure/Entity">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="5456904674140699922" modelId="r:6ffb4c3e-f0e8-400c-b2dc-53d8c838bcac(wjax.entities.behavior)" />
         </state>
       </provider>
     </entry>

@@ -36,6 +36,9 @@
       <property name="name" nameId="tpck.1169194664001" value="StringType" />
       <link role="extends" roleId="tpce.1071489389519" targetNodeId="5456904674140684706" resolveInfo="Type" />
     </node>
+    <node type="tpce.InterfaceConceptDeclaration" typeId="tpce.1169125989551" id="5456904674140698933">
+      <property name="name" nameId="tpck.1169194664001" value="IUniqueNamesContainer" />
+    </node>
   </roots>
   <root id="5456904674140684673">
     <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="5456904674140684684">
@@ -46,6 +49,9 @@
     </node>
     <node role="implements" roleId="tpce.1169129564478" type="tpce.InterfaceConceptReference" typeId="tpce.1169127622168" id="5456904674140684674">
       <link role="intfc" roleId="tpce.1169127628841" targetNodeId="tpck.1169194658468" resolveInfo="INamedConcept" />
+    </node>
+    <node role="implements" roleId="tpce.1169129564478" type="tpce.InterfaceConceptReference" typeId="tpce.1169127622168" id="5456904674140699921">
+      <link role="intfc" roleId="tpce.1169127628841" targetNodeId="5456904674140698933" resolveInfo="IUniqueNamesContainer" />
     </node>
     <node role="conceptProperty" roleId="tpce.1105725339613" type="tpce.StringConceptProperty" typeId="tpce.1105725638761" id="5456904674140684713">
       <property name="value" nameId="tpce.1105725733873" value="entity" />
@@ -58,6 +64,9 @@
       <property name="role" nameId="tpce.1071599776563" value="entities" />
       <property name="sourceCardinality" nameId="tpce.1071599893252" value="0..n" />
       <link role="target" roleId="tpce.1071599976176" targetNodeId="5456904674140684673" resolveInfo="Entity" />
+    </node>
+    <node role="implements" roleId="tpce.1169129564478" type="tpce.InterfaceConceptReference" typeId="tpce.1169127622168" id="5456904674140699882">
+      <link role="intfc" roleId="tpce.1169127628841" targetNodeId="5456904674140698933" resolveInfo="IUniqueNamesContainer" />
     </node>
   </root>
   <root id="5456904674140684681">
@@ -97,5 +106,6 @@
       <link role="conceptPropertyDeclaration" roleId="tpce.1105725439818" targetNodeId="tpck.1137473891462" resolveInfo="alias" />
     </node>
   </root>
+  <root id="5456904674140698933" />
 </model>
 
