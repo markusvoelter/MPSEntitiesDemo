@@ -47,6 +47,10 @@
       <property name="name" nameId="tpck.1169194664001" value="EntityType" />
       <link role="extends" roleId="tpce.1071489389519" targetNodeId="5456904674140684706" resolveInfo="Type" />
     </node>
+    <node type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="5456904674140714007">
+      <property name="name" nameId="tpck.1169194664001" value="OppositeSpec" />
+      <link role="extends" roleId="tpce.1071489389519" targetNodeId="tpck.1133920641626" resolveInfo="BaseConcept" />
+    </node>
   </roots>
   <root id="5456904674140684673">
     <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="5456904674140684684">
@@ -116,6 +120,11 @@
   </root>
   <root id="5456904674140698933" />
   <root id="5456904674140706760">
+    <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="5456904674140714019">
+      <property name="metaClass" nameId="tpce.1071599937831" value="aggregation" />
+      <property name="role" nameId="tpce.1071599776563" value="opposite" />
+      <link role="target" roleId="tpce.1071599976176" targetNodeId="5456904674140714007" resolveInfo="OppositeSpec" />
+    </node>
     <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="5456904674140706761">
       <property name="metaClass" nameId="tpce.1071599937831" value="reference" />
       <property name="role" nameId="tpce.1071599776563" value="entity" />
@@ -133,6 +142,14 @@
       <property name="role" nameId="tpce.1071599776563" value="entity" />
       <property name="sourceCardinality" nameId="tpce.1071599893252" value="1" />
       <link role="target" roleId="tpce.1071599976176" targetNodeId="5456904674140684673" resolveInfo="Entity" />
+    </node>
+  </root>
+  <root id="5456904674140714007">
+    <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="5456904674140714008">
+      <property name="metaClass" nameId="tpce.1071599937831" value="reference" />
+      <property name="role" nameId="tpce.1071599776563" value="opposite" />
+      <property name="sourceCardinality" nameId="tpce.1071599893252" value="1" />
+      <link role="target" roleId="tpce.1071599976176" targetNodeId="5456904674140706760" resolveInfo="Reference" />
     </node>
   </root>
 </model>

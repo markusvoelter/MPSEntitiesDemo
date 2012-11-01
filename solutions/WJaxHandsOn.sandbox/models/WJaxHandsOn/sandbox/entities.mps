@@ -22,10 +22,21 @@
       <node role="properties" roleId="v79f.5456904674140684684" type="v79f.Reference" typeId="v79f.5456904674140706760" id="5456904674140710616">
         <property name="name" nameId="tpck.1169194664001" value="p" />
         <link role="entity" roleId="v79f.5456904674140706761" targetNodeId="5456904674140710614" resolveInfo="Person" />
+        <node role="opposite" roleId="v79f.5456904674140714019" type="v79f.OppositeSpec" typeId="v79f.5456904674140714007" id="5456904674140717381">
+          <link role="opposite" roleId="v79f.5456904674140714008" targetNodeId="5456904674140718376" resolveInfo="car" />
+        </node>
       </node>
     </node>
     <node role="entities" roleId="v79f.5456904674140684676" type="v79f.Entity" typeId="v79f.5456904674140684673" id="5456904674140710614">
       <property name="name" nameId="tpck.1169194664001" value="Person" />
+      <node role="properties" roleId="v79f.5456904674140684684" type="v79f.Reference" typeId="v79f.5456904674140706760" id="5456904674140718376">
+        <property name="name" nameId="tpck.1169194664001" value="car" />
+        <link role="entity" roleId="v79f.5456904674140706761" targetNodeId="5456904674140696369" resolveInfo="Car" />
+      </node>
+      <node role="properties" roleId="v79f.5456904674140684684" type="v79f.Reference" typeId="v79f.5456904674140706760" id="5456904674140718801">
+        <property name="name" nameId="tpck.1169194664001" value="brother" />
+        <link role="entity" roleId="v79f.5456904674140706761" targetNodeId="5456904674140710614" resolveInfo="Person" />
+      </node>
     </node>
   </root>
 </model>
